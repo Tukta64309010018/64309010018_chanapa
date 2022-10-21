@@ -3,4 +3,50 @@
         <FoodTD>001</FoodTD>
         <FoodName>ผัดกระเพราหมู</FoodName>
         <Price>35 บาท</Price>
+            </ThaiFood>
+     <ThaiFood>
+        <FoodTD>002</FoodTD>
+        <FoodName>ผัดคะน้าหมูกรอบ</FoodName>
+        <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>003</FoodTD>
+        <FoodName>ผัดซีอิ๊ว</FoodName>
+        <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>004</FoodTD>
+        <FoodName>ผัดไทย</FoodName>
+        <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>005</FoodTD>
+        <FoodName>ราดหน้า</FoodName>
+        <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>006</FoodTD>
+        <FoodName>สุกี้หมู</FoodName>
+        <Price>40 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>007</FoodTD>
+        <FoodName>ข้าวผัดรวมมิตร</FoodName>
+        <Price>45 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>008</FoodTD>
+        <FoodName>ข้าวผัดหมู</FoodName>
+        <Price>35 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>009</FoodTD>
+        <FoodName>หมูทอดกระเทียม</FoodName>
+        <Price>45 บาท</Price>
+    </ThaiFood>
+     <ThaiFood>
+        <FoodTD>010</FoodTD>
+        <FoodName>ข้าวผัดปู</FoodName>
+        <Price>60 บาท</Price>
+    </ThaiFood>
 </Food>
